@@ -21,12 +21,12 @@ Check out the live demo: [Task Manager Demo](https://assignment-1-hassankhaans-p
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/task-manager-vue.git
+   git clone https://github.com/hassankhaan/assignment-1.git
    
 2. Navigate to the project directory:
 
    ```bash
-   cd task-manager-vue
+   cd assignment-1
 3. Install dependencies:
 
    ```bash
